@@ -65,7 +65,16 @@ plt.grid(True)
 plt.show()
 
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![WhatsApp Image 2026-03-28 at 4 24 28 PM](https://github.com/user-attachments/assets/1bb427a1-2478-4963-9a84-d60b46fa6574)
+
+
+![WhatsApp Image 2026-03-28 at 4 25 03 PM](https://github.com/user-attachments/assets/a3a4c900-3533-458f-a010-ad5f860984c9)
+
+
+![WhatsApp Image 2026-03-28 at 4 25 28 PM](https://github.com/user-attachments/assets/d365add3-5037-4946-a923-4e9cd0cc20fe)
+
+
+![WhatsApp Image 2026-03-28 at 4 25 55 PM](https://github.com/user-attachments/assets/da82591a-02aa-4bd8-ab7e-58607513b8ec)
 
 
 ## Result:
