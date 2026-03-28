@@ -65,17 +65,14 @@ plt.grid(True)
 plt.show()
 
 ## Output:
-![WhatsApp Image 2026-03-28 at 4 24 28 PM](https://github.com/user-attachments/assets/1bb427a1-2478-4963-9a84-d60b46fa6574)
 
+<img width="780" height="580" alt="Screenshot 2026-03-28 162418" src="https://github.com/user-attachments/assets/7a8867cd-174a-47fc-814e-b0309e5bfd92" />
 
-![WhatsApp Image 2026-03-28 at 4 25 03 PM](https://github.com/user-attachments/assets/a3a4c900-3533-458f-a010-ad5f860984c9)
+<img width="768" height="751" alt="Screenshot 2026-03-28 162452" src="https://github.com/user-attachments/assets/9dc1e3bd-e1b1-479b-b749-de6fde701fd6" />
 
+<img width="509" height="187" alt="Screenshot 2026-03-28 162515" src="https://github.com/user-attachments/assets/0614866d-a58a-4c8b-916d-d2864d6062a5" />
 
-![WhatsApp Image 2026-03-28 at 4 25 28 PM](https://github.com/user-attachments/assets/d365add3-5037-4946-a923-4e9cd0cc20fe)
-
-
-![WhatsApp Image 2026-03-28 at 4 25 55 PM](https://github.com/user-attachments/assets/da82591a-02aa-4bd8-ab7e-58607513b8ec)
-
+<img width="763" height="585" alt="Screenshot 2026-03-28 162545" src="https://github.com/user-attachments/assets/1057f344-5ab2-4902-b667-385500276b08" />
 
 ## Result:
 Thus, the program to implement Linear and Polynomial Regression models for predicting car prices was written and verified using Python programming.
